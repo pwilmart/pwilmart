@@ -1,4 +1,4 @@
-## Proteomics education, tools, and applications
+# Proteomics education, tools, and applications
 
 Check out the [Start_Here](https://github.com/pwilmart/Start_Here) for a roadmap to the available content. I have [blogs here](https://pwilmart.github.io/blog/) on some proteomics topics from the simple to the "I can't believe someone wrote a blog post on that". The [OHSU proteomics core](https://www.ohsu.edu/proteomics-shared-resource) also has a [GitHub account](https://github.com/OHSU-Proteomics) with some additional content.
 
