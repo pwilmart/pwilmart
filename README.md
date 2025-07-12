@@ -4,7 +4,7 @@ Check out [Start_Here](https://github.com/pwilmart/Start_Here) for a roadmap to 
 <br><br>
 @pwilmart@scicomm.xyz on Mastodon 
 <br>
-@pwilmarth on Twitter
+@pwilmarth on Bluesky
 
 ---
 
